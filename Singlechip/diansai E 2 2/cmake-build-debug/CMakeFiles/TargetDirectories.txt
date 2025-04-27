@@ -1,0 +1,3 @@
+/Users/liziwen/Desktop/diansai E/cmake-build-debug/CMakeFiles/diansai_E.dir
+/Users/liziwen/Desktop/diansai E/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liziwen/Desktop/diansai E/cmake-build-debug/CMakeFiles/rebuild_cache.dir
