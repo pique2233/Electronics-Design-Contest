@@ -8,15 +8,10 @@
 > 为2025年电子芯片设计大赛准备的项目介绍文档
 
 ---
-
 ## 项目背景
-
 2025年电子芯片设计大赛为创新和技术应用提供平台，本项目整合单片机及视觉系统方案
-
-
 ## 视觉部分
 CV跟踪：
-## 动图展示
 <p float="left">
   <img src="https://github.com/pique2233/Electronics-Design-Contest/raw/main/CV/rectangle_red_dot.gif" width="45%" />
   <img src="https://github.com/pique2233/Electronics-Design-Contest/raw/main/CV/red_dot_with_green_follower.gif" width="45%" />
