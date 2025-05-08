@@ -17,9 +17,10 @@
 ## 视觉部分
 CV跟踪：
 ## 动图展示
-
-![图1](https://github.com/pique2233/Electronics-Design-Contest/raw/main/CV/rectangle_red_dot.gif)
-![图2](https://github.com/pique2233/Electronics-Design-Contest/raw/main/CV/red_dot_with_green_follower.gif)
+<p float="left">
+  <img src="=https://github.com/pique2233/Electronics-Design-Contest/raw/main/CV/rectangle_red_dot.gif" width="45%" />
+  <img src="https://github.com/pique2233/Electronics-Design-Contest/raw/main/CV/red_dot_with_green_follower.gif" width="45%" />
+</p>
 
 ### 目标
 构建智能视觉系统，实现高效图像处理与深度学习应用。
