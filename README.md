@@ -13,17 +13,13 @@
 
 2025年电子芯片设计大赛为创新和技术应用提供平台，本项目整合单片机及视觉系统方案
 
-## 单片机部分
-
-### 目标
-设计低功耗、高效稳定的单片机系统。
-
-### 主要内容
-- **硬件设计**：电路原理图、PCB布局与仿真测试
-- **软件开发**：嵌入式 C 编程、RTOS 应用
-- **接口开发**：I2C、SPI、UART 等通信协议实现
 
 ## 视觉部分
+CV跟踪：
+## 动图展示
+
+![图1](https://github.com/pique2233/Electronics-Design-Contest/raw/main/CV/rectangle_red_dot.gif)
+![图2](https://github.com/pique2233/Electronics-Design-Contest/raw/main/CV/red_dot_with_green_follower.gif)
 
 ### 目标
 构建智能视觉系统，实现高效图像处理与深度学习应用。
