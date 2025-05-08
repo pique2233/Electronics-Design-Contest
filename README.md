@@ -18,7 +18,7 @@
 CV跟踪：
 ## 动图展示
 <p float="left">
-  <img src="=https://github.com/pique2233/Electronics-Design-Contest/raw/main/CV/rectangle_red_dot.gif" width="45%" />
+  <img src="https://github.com/pique2233/Electronics-Design-Contest/raw/main/CV/rectangle_red_dot.gif" width="45%" />
   <img src="https://github.com/pique2233/Electronics-Design-Contest/raw/main/CV/red_dot_with_green_follower.gif" width="45%" />
 </p>
 
